@@ -1,2 +1,2 @@
 # Mackerel
-A website made for my startup
+A sample website made for my startup
